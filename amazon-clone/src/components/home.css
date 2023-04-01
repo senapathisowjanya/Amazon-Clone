@@ -20,6 +20,31 @@
     margin-right: 5px;
 }
 
+.home_row1 {
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.home_row2 {
+    /* width: 0px;
+    display: flex;
+    z-index: 1;
+    margin-left: 340px;
+    margin-right: 20px; */
+    margin-top: 380px;
+     /* height: 0px; */
+    background-color: blue;
+    border: 2px solid red;
+    
+}
+
+.single {
+height: auto;
+width: 100px;
+}
+
 
 
 

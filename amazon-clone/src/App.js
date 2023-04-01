@@ -3,6 +3,7 @@ import Headers from "./Headers"
 import Home from "./components/Home"
 import HeaderBottom from './components/HeaderBottom';
 // import SlideShowFun from './components/SlideShowFun';
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <HeaderBottom/>
       {/* <SlideShowFun /> */}
       <Home/>
+      <Footer/>
     </div>
   );
 }
