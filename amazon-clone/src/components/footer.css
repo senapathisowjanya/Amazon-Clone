@@ -1,0 +1,7 @@
+.footer1 {
+    border: 2px solid red;
+    width: auto;
+    padding-right: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}

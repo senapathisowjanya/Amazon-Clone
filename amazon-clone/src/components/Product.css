@@ -3,21 +3,28 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
-    margin:10px;
+    margin:8px;
     padding:20px;
     width: 100%;
-    max-height: 400px;
+    /* max-height:400px; */
     min-width: 100px;
     background-color: white;
+    /* border: 2px solid red; */
+    height: auto;
+    padding-bottom: 290px;
     z-index: 1;
     margin-top: -140px;
+    margin-bottom: -200px;
+    
 }
 
 .product > img {
-max-height: 200px;
+/* max-height: 200px; */
+height: auto;
 width: 100%;
 object-fit: contain;
-margin-bottom: 15px;
+margin-bottom: 95px;
+margin-top: -200px;
 }
 
 
@@ -29,4 +36,36 @@ margin-bottom: 15px;
 .product_info {
     height: 100px;
     margin-bottom: 15px;
+    
 }
+.link_seemore{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* display:inline-block; */
+    color: blue;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size:15px;
+    font-weight:490;
+   
+    /* border: 2px solid red; */
+
+}
+.link_seemore1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* display:inline-block; */
+    color: blue;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size:15px;
+    font-weight:490;
+     margin-top: -10px;
+     
+    /* border: 2px solid red; */
+
+}
+
+/* https://6422c67b77e7062b3e224e73.mockapi.io/products */
