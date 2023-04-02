@@ -1,7 +1,156 @@
 .footer1 {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: auto;
     padding-right: 400px;
-    display: flex;
-    justify-content: space-evenly;
+    /* display: flex;
+    justify-content: space-evenly; */
+    /* padding-top: 100px; */
 }
+.footer_top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+    border-top: 0.1px solid red;
+    width: 100%;
+    padding: 15px 200px;
+    background-color: #37475A;
+    color: white;
+    /* border: 1px solid #37475A; */
+    /* border-top:2px solid #37475A; */
+}
+
+.all_boxes {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 200px;
+    background-color: #232F3E;
+    /* border: 2px solid red; */
+    
+}
+.line1 {
+/* padding-top: 100px; */
+/* border: 1px solid red; */
+margin-top: -225px;
+color:white;
+padding-right: 180px;
+text-align: center;
+padding-left: 30px;
+font-size: 14px;
+
+
+}
+#get > ul{
+    list-style: none;
+}
+#get > h4{
+    text-align: center;
+}
+#get {
+    margin-right: 80px;
+    text-align: left;
+}
+#connect{
+    text-align: left;
+}
+#connect > ul{
+    list-style: none;
+}
+#connect > h4{
+    text-align: center;
+}
+
+#box2 {
+    /* border:2px solid white; */
+    margin-top: -50px;
+    
+}
+
+.line1 >ul {
+    list-style: none;
+}
+
+.line2 {
+  text-align: center;
+  display: block;
+  margin-top: 1000px;
+/* border: 1px solid red; */
+margin-top: -2230px;
+color:white;
+padding-right: 80px;
+
+
+/* text-align: center; */
+/* padding-left: 30px; */
+font-size: 14px;
+    }
+
+    .line3 {
+        /* border: 1px solid red; */
+        padding-top: -40px;
+        margin-top: -10px;
+        color: white;
+        padding-right: 80px;
+        text-align: left;
+        }
+        .line3 > h4{
+            text-align: center;
+        }
+        
+        .line3 > ul{
+            list-style: none;
+        }
+
+        .line4 {
+            /* border: 1px solid red; */
+            /* padding-top: -150px; */
+              margin-top: 150px;
+            color: white;
+            padding-right: 80px;
+            margin-top: -590px;
+            list-style: none;
+           text-align: left;
+           /* font-size: 10px; */
+            }
+            .line4 > h4{
+                margin-top: -95px;
+                text-align: center;
+            }
+            .line4 > ul{
+                list-style: none;
+                margin-top: 10px;
+            }
+    .footer_bottom {
+        display: grid;
+        grid-template-columns: repeat(5,100px);
+        padding: 20px 60px;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 12px;
+        text-align: left;;
+    }
+    
+   .footer_bottom :hover {
+    text-decoration: underline;
+   }
+    
+    .line5 {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding:0px 50px;
+        padding-bottom: 40px;
+        background-color: #07244bce;
+    }
+    #country {
+        padding: 5px 10px;
+        background-color: #07244bce;
+        color:gainsboro;
+        margin-left: -990px;
+
+    }
+
+    /* //check  */
+ 

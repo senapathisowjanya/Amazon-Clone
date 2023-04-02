@@ -99,10 +99,7 @@ function Home() {
          image="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Pharmacy/CC_low_3._SY304_CB592656736_.jpg"
          link="see more"/>
       </Box>
-      <Box className='home_row2'>
-        {/* <SingleImage className="single"
-        image="https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ee5a127f-6e1f-42c7-ac7a-a376a5a2310c.jpg"/> */}
-      </Box>
+      
     </Box>
    </Box>
   )
