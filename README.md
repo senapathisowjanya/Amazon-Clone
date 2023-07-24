@@ -8,19 +8,20 @@
 <h3 align="center">
 	<a href="https://amazon-eta-sandy.vercel.app/" target="_blank">Live URL</a>
 </h3>
+<h2>## Amazon</h2>
+This project is an educational exercise and a demonstration of web development skills. It is not an official Amazon website, and it is not affiliated with Amazon in any way. The project does not support any actual transactions or purchases.The Amazon Clone project is a web application that replicates the basic functionalities of the Amazon e-commerce platform. It allows users to browse a catalog of products, add items to their cart, and proceed to checkout .
   
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+	  <li><a href="#contributors">File Structure</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
-<!--       <ul>
-        <li><a href="#built-with">Built With</a></li>
-          <li><a href="#tools-and-libraries">Tools And Libraries</a></li>
-      </ul> -->
     </li>
-    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#">tools</a></li>
+	  <li><a href="#">Contributors</a></li>
+	  <li><a href="#">Glimpse</a></li>
   </ol>
 </details>
 
