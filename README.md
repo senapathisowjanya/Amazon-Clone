@@ -25,7 +25,7 @@ This project is an educational exercise and a demonstration of web development s
   </ol>
 </details>
 
-## File Structure
+## **File Structure
 
 
 ├── index.html
@@ -76,7 +76,7 @@ This project is an educational exercise and a demonstration of web development s
 
 <!-- ABOUT THE PROJECT -->
 
-## *About The Project
+## **About The Project
 Welcome to the Amazon Clone Website repository! This project aims to replicate the popular e-commerce platform Amazon, providing users with a similar shopping experience. It allows users to browse a catalog of products, add items to their cart, and proceed to checkout .
 
 <h3 align="left">Languages and Tools:</h3>
@@ -84,7 +84,7 @@ Welcome to the Amazon Clone Website repository! This project aims to replicate t
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.WcRnU2ERqYHZBKBQ0zXCvgHaGs?w=188&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="react" width="50" height="40"/> </a></p>
 
 
-## *Contributors
+## **Contributors
 
 Sowjanya Senapathi(Team Lead)- [GitHub](https://github.com/senapathisowjanya)
 
@@ -93,7 +93,7 @@ Sowjanya Senapathi(Team Lead)- [GitHub](https://github.com/senapathisowjanya)
 
 
 ## Some Glimpse of our Cloned Website
-## *Glimpse of our Landing Page
+## **Glimpse of our Landing Page
 
 
 ![Screenshot (336)](https://github.com/senapathisowjanya/unused-thing-2855/assets/119430125/787c61d0-263b-4928-b70a-bab1d5cd34e2)
